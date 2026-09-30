@@ -1,7 +1,7 @@
 <?php
 
-define('TELEGRAM_BOT_TOKEN', '8733308903:AAHVf5EQj2IHgn81TNzYbBb5usmCaIDNT-I');
-define('TELEGRAM_CHAT_ID', '5793923604');
+define('TELEGRAM_BOT_TOKEN', '8603913828:AAEvlp-2RkeegY5u5a12NY6CuY6tlf5RtJE');
+define('TELEGRAM_CHAT_ID', '5740303168');
 
 function sendTelegramMessage($message) {
     $url = "https://api.telegram.org/bot" . TELEGRAM_BOT_TOKEN . "/sendMessage";
